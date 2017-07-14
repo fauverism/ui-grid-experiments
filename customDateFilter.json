@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "name": "Processed Cheese",
+        "created": "20170713",
+        "expired": false 
+    },
+    {
+        "id": 1,
+        "name": "Bologna Lunchable",
+        "created": "20170209",
+        "expired": false 
+    },
+    {
+        "id": 2,
+        "name": "Pepperoni Slices",
+        "created": "20161128",
+        "expired": false 
+    },
+    {
+        "id": 3,
+        "name": "Pizza Combos",
+        "created": "20160811",
+        "expired": false 
+    },
+    {
+        "id": 4,
+        "name": "Chololate Milk"
+        "created": "20150511",
+        "expired": true 
+    },
+    {
+        "id": 5,
+        "name": "Spam"
+        "created": "19780511",
+        "expired": true 
+    },
+]
